@@ -9,7 +9,7 @@
             // Let's be nice and not throw errors in browsers that don't have consoles ...
             if (!!console) {
                 i < 10000 && console.log('These fans work great!');
-                i >= 10000 && console.log('Listen to the music those fans make!');
+                i >= 10000 && console.log('Listen to the music these fans make!');
             }
         }        
     }
