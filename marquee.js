@@ -1,5 +1,6 @@
 /**
  * This marquee stuff is deliberately low-tech. Use at your own risk.
+ * See also: https://caniuse.com/#search=marquee
  *
  * Usage: `marquee();`
  * Optional params follow <marquee /> attribute names & values.
