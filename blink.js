@@ -1,5 +1,5 @@
 // this script may or may not still be demoed here:
-// https://fuckjavascript.penryu.app/blink
+// https://portfolio.penryu.dev/blink/
 
 function kickoff(f, timerf) {
   setTimeout(() => {
@@ -13,8 +13,8 @@ function mapOverClass(cls, f) {
 }
 
 function toggleVisibility(e) {
-    e.style.visibility = (e.style.visibility === 'hidden')
-      ? 'visible' : 'hidden';
+  e.style.visibility = (e.style.visibility === 'hidden')
+    ? 'visible' : 'hidden';
 }
 
 function init() {
